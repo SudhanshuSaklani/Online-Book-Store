@@ -4,11 +4,11 @@
 This project focuses on analyzing a bookstore’s sales data using SQL.
 The dataset consists of three relational tables:
 
-<a href = "">Books</a>
+<a href = "https://github.com/SudhanshuSaklani/Online-Book-Store/blob/c476c846861a85655d4cc7b88086a2a1d48e608b/Books.csv">Books</a>
 
-<a href = "">Customers</a>
+<a href = "https://github.com/SudhanshuSaklani/Online-Book-Store/blob/c476c846861a85655d4cc7b88086a2a1d48e608b/Customers.csv">Customers</a>
 
-<a href = "">Orders</a>
+<a href = "https://github.com/SudhanshuSaklani/Online-Book-Store/blob/c476c846861a85655d4cc7b88086a2a1d48e608b/Orders.csv">Orders</a>
 
 Using structured SQL queries, this project extracts meaningful business insights such as:
 
